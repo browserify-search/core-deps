@@ -1,5 +1,5 @@
 {
-  "name": "core_deps",
+  "name": "core-deps",
   "version": "0.0.0",
   "description": "Get a module or .js file's dependencies on Node core modules.",
   "main": "index.js",
